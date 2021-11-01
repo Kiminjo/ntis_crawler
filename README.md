@@ -12,7 +12,7 @@
 - 연구 내용 
 - 기대 효과 
   
-![](img/screenshot.png)
+![](https://user-images.githubusercontent.com/42087965/139634721-5f260775-9aac-4910-b9b4-b8064eec25c0.png)
 <br></br>
 <br></br>
 
